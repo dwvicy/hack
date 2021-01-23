@@ -1,0 +1,19 @@
+{
+  "name": "hack.dscrait.tech",
+  "version": "1.0.0",
+  "description": "hack website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwvicy/hack.git"
+  },
+  "author": "dwvicy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwvicy/hack/issues"
+  },
+  "homepage": "https://github.com/dwvicy/hack#readme"
+}
